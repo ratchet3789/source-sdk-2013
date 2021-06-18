@@ -1,4 +1,10 @@
-               SOURCE 1 SDK LICENSE
+# Source SDK Doxygen
+### What?!
+Source SDK lacks documentation. It lacks a FGD generator. It lacks a lot, enough to make it a pain in the ass to develop for if you're not entirely used to the Source Engine Framework. This repo is going to be the slow process of documenting the Source (2013 only) engine to allow newer developers and people not 100% sure of how Source and C++ work to make Source Engine Mods/Standalone Games.
+
+Note: Source Licence still applies, all I am doing is adding a layer to allow ease of use to the engine.
+
+# SOURCE 1 SDK LICENSE
 
 Source SDK Copyright(c) Valve Corp.  
 
@@ -6,7 +12,7 @@ THIS DOCUMENT DESCRIBES A CONTRACT BETWEEN YOU AND VALVE
 CORPORATION ("Valve").  PLEASE READ IT BEFORE DOWNLOADING OR USING 
 THE SOURCE ENGINE SDK ("SDK"). BY DOWNLOADING AND/OR USING THE 
 SOURCE ENGINE SDK YOU ACCEPT THIS LICENSE. IF YOU DO NOT AGREE TO 
-THE TERMS OF THIS LICENSE PLEASE DON’T DOWNLOAD OR USE THE SDK.  
+THE TERMS OF THIS LICENSE PLEASE DONâ€™T DOWNLOAD OR USE THE SDK.  
 
   You may, free of charge, download and use the SDK to develop a modified Valve game 
 running on the Source engine.  You may distribute your modified Valve game in source and 
